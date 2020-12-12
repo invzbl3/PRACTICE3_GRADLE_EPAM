@@ -27,10 +27,4 @@ public class Part4Test {
         Demo.main(new String[] { });
         Assert.assertTrue("Assertion to be compliant", true);
     }
-    
-    @Test
-    public void getInputTest() {
-        Util.getInput("part4.txt");
-        Assert.assertTrue("Assertion to be compliant", true);
-    }
 }
