@@ -10,3 +10,5 @@ For this you need:
 3) You can read the reports in just appeared "buildReports" folder
 	a) jacocoTestReport.xml provides code coverage information
 	b) checkStyleReport.xml fingBugsReport.xml and pmdReport.xml provide information about static analysis
+
+![Результаты 3-й главы](https://user-images.githubusercontent.com/24904825/101683663-ee5f4780-3a6d-11eb-8306-78c41c2a3d3f.PNG)
